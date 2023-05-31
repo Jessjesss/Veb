@@ -1,6 +1,0 @@
-CREATE TABLE Groupmates (
- id			INT PRIMARY KEY,
- name		VARCHAR(30),
- age		INT(3),
- address	VARCHAR(50)
- );
